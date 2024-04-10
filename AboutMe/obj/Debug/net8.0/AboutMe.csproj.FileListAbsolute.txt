@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\AboutMe\AboutMe\bin\Debug\net8.0\AboutMe.exe
+C:\Users\super\source\repos\AboutMe\AboutMe\bin\Debug\net8.0\AboutMe.deps.json
+C:\Users\super\source\repos\AboutMe\AboutMe\bin\Debug\net8.0\AboutMe.runtimeconfig.json
+C:\Users\super\source\repos\AboutMe\AboutMe\bin\Debug\net8.0\AboutMe.dll
+C:\Users\super\source\repos\AboutMe\AboutMe\bin\Debug\net8.0\AboutMe.pdb
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.AssemblyInfo.cs
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.dll
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\refint\AboutMe.dll
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.pdb
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\AboutMe.genruntimeconfig.cache
+C:\Users\super\source\repos\AboutMe\AboutMe\obj\Debug\net8.0\ref\AboutMe.dll
