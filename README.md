@@ -24,7 +24,7 @@ I Am Always Open For Feedback, And Improvement, Feel Free To Open A Pull Request
 ## License
 This Project Is Licensed Under The [MIT License](LICENSE).
 
-Let's connect!
+# Social's 
 - [My GitHub](https://github.com/bennytrt)
 - [My Discord](https://discord.gg/Eq3egu88Sh)
 
